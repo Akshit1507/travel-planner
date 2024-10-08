@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { PHOTO_REF_URL } from "@/constants/options";
-import { GetPlaceDetails } from "@/service/GlobalApi";
+import { GetPlaceDetails } from "@/service/GlobalAPI";
 import { CiStar } from "react-icons/ci";
 import { GiTicket } from "react-icons/gi";
 import { FaClock, FaMapMarkerAlt } from "react-icons/fa";
